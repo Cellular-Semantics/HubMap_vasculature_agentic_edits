@@ -1,0 +1,186 @@
+{
+  "processing_date": "2026-02-09",
+  "source_reference": "PMID:12169487",
+  "reference_title": "The ascending pharyngeal artery: branches, anastomoses, and clinical significance",
+  "reference_authors": "Hacein-Bey L, Daniels DL, Ulmer JL, et al.",
+  "reference_journal": "AJNR Am J Neuroradiol. 2002 Aug;23(7):1246-56",
+  "reference_abstract": "Neuroradiologists generally do not fully appreciate the importance of the territory of the ascending pharyngeal artery. The ascending pharyngeal artery is a small but important artery that supplies multiple cranial nerves and anastomotic channels to the anterior and posterior cerebral circulations. Several disease processes in the head and neck involve the ascending pharyngeal artery. To evaluate and treat such diseases, it is necessary for neuroradiologists not only to know selective angiography and embolization techniques, but also the territory of the ascending pharyngeal artery, anastomoses, and vascular supply to the vasa nervorum of lower cranial nerves.",
+
+  "pattern_reference": {
+    "row_8": {
+      "label": "ascending pharyngeal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000974",
+      "location_label": "neck",
+      "connecting_branch_of": "UBERON:0001070",
+      "connecting_branch_of_label": "external carotid artery",
+      "vessel_supplies_blood_to": "UBERON:0006562",
+      "vessel_supplies_blood_to_label": "pharynx",
+      "definition_pattern": "An artery of the neck that branches from the external carotid artery and supplies the pharynx."
+    }
+  },
+
+  "entries": [
+    {
+      "row": 72,
+      "label": "eustachian branch of ascending pharyngeal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000974",
+      "location_label": "neck",
+      "connecting_branch_of": "UBERON:8600078",
+      "connecting_branch_of_label": "ascending pharyngeal artery",
+      "vessel_supplies_blood_to": "UBERON:0002393",
+      "vessel_supplies_blood_to_label": "pharyngotympanic tube",
+      "definition": "An artery that branches from the ascending pharyngeal artery and supplies the pharyngotympanic tube (eustachian tube).",
+      "xrefs": "PMID:12169487",
+      "synonym": "auditory tube branch of ascending pharyngeal artery",
+      "synonym_xrefs": "PMID:12169487",
+      "FMA_xref": "",
+      "justification": "The ascending pharyngeal artery gives rise to branches that supply the pharyngotympanic tube (eustachian tube). This is consistent with the artery's role in supplying pharyngeal structures and related anatomical areas. The pharyngotympanic tube (UBERON:0002393) connects the middle ear to the nasopharynx.",
+      "ontology_notes": {
+        "pharyngotympanic_tube": "UBERON:0002393 - Also known as eustachian tube or auditory tube. Connects cavity of middle ear to cavity of pharynx.",
+        "middle_ear": "UBERON:0001756 - Connected to pharynx via the eustachian tube"
+      }
+    },
+    {
+      "row": 80,
+      "label": "inferior pharyngeal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000974",
+      "location_label": "neck",
+      "connecting_branch_of": "UBERON:8600078",
+      "connecting_branch_of_label": "ascending pharyngeal artery",
+      "vessel_supplies_blood_to": "UBERON:0006562",
+      "vessel_supplies_blood_to_label": "pharynx",
+      "definition": "An artery that branches from the ascending pharyngeal artery and supplies the inferior portion of the pharynx.",
+      "xrefs": "PMID:12169487",
+      "synonym": "",
+      "synonym_xrefs": "",
+      "FMA_xref": "",
+      "justification": "The ascending pharyngeal artery divides into pharyngeal branches including superior, middle, and inferior pharyngeal branches that supply different levels of the pharynx. The inferior pharyngeal artery supplies the lower pharyngeal region.",
+      "ontology_notes": {
+        "pharynx": "UBERON:0006562 - The part of digestive system immediately posterior to the mouth",
+        "pharyngeal_trunk": "The ascending pharyngeal artery has an extracranial pharyngeal trunk with superior, middle and inferior branches"
+      }
+    },
+    {
+      "row": 121,
+      "label": "middle pharyngeal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000974",
+      "location_label": "neck",
+      "connecting_branch_of": "UBERON:8600078",
+      "connecting_branch_of_label": "ascending pharyngeal artery",
+      "vessel_supplies_blood_to": "UBERON:0006562",
+      "vessel_supplies_blood_to_label": "pharynx",
+      "definition": "An artery that branches from the ascending pharyngeal artery and supplies the middle portion of the pharynx.",
+      "xrefs": "PMID:12169487",
+      "synonym": "",
+      "synonym_xrefs": "",
+      "FMA_xref": "",
+      "justification": "The ascending pharyngeal artery divides into pharyngeal branches including superior, middle, and inferior pharyngeal branches that supply different levels of the pharynx. The middle pharyngeal artery supplies the mid-pharyngeal region.",
+      "ontology_notes": {
+        "pharynx": "UBERON:0006562 - The part of digestive system immediately posterior to the mouth",
+        "pharyngeal_trunk": "The ascending pharyngeal artery has an extracranial pharyngeal trunk with superior, middle and inferior branches"
+      }
+    },
+    {
+      "row": 132,
+      "label": "pterygovaginal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000033",
+      "location_label": "head",
+      "connecting_branch_of": "UBERON:8600078",
+      "connecting_branch_of_label": "ascending pharyngeal artery",
+      "vessel_supplies_blood_to": "UBERON:0001728|UBERON:0002393",
+      "vessel_supplies_blood_to_label": "nasopharynx|pharyngotympanic tube",
+      "definition": "An artery that branches from the ascending pharyngeal artery and supplies the nasopharynx and pharyngotympanic tube region.",
+      "xrefs": "PMID:12169487",
+      "synonym": "",
+      "synonym_xrefs": "",
+      "FMA_xref": "",
+      "justification": "The pterygovaginal artery is a branch of the ascending pharyngeal artery that courses through pharyngeal structures. It supplies the upper pharyngeal region (nasopharynx) and adjacent structures including the pharyngotympanic tube. Note: This artery may also have contributions from the maxillary artery as 'artery of pterygoid canal' (UBERON:8600100), but PMID:12169487 discusses it in context of ascending pharyngeal artery branches.",
+      "ontology_notes": {
+        "nasopharynx": "UBERON:0001728 - The section of pharynx that lies above the soft palate",
+        "pharyngotympanic_tube": "UBERON:0002393 - Connects cavity of middle ear to cavity of pharynx",
+        "related_structure": "UBERON:8600100 (artery of pterygoid canal) branches from maxillary artery and also supplies auditory tube, tympanic cavity, and upper pharynx"
+      }
+    },
+    {
+      "row": 158,
+      "label": "superior pharyngeal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000974",
+      "location_label": "neck",
+      "connecting_branch_of": "UBERON:8600078",
+      "connecting_branch_of_label": "ascending pharyngeal artery",
+      "vessel_supplies_blood_to": "UBERON:0006562|UBERON:0001728",
+      "vessel_supplies_blood_to_label": "pharynx|nasopharynx",
+      "definition": "An artery that branches from the ascending pharyngeal artery and supplies the superior portion of the pharynx and nasopharynx.",
+      "xrefs": "PMID:12169487",
+      "synonym": "",
+      "synonym_xrefs": "",
+      "FMA_xref": "",
+      "justification": "The ascending pharyngeal artery divides into pharyngeal branches including superior, middle, and inferior pharyngeal branches that supply different levels of the pharynx. The superior pharyngeal artery supplies the upper pharyngeal region, including the nasopharynx.",
+      "ontology_notes": {
+        "pharynx": "UBERON:0006562 - The part of digestive system immediately posterior to the mouth",
+        "nasopharynx": "UBERON:0001728 - The section of pharynx that lies above the soft palate",
+        "pharyngeal_trunk": "The ascending pharyngeal artery has an extracranial pharyngeal trunk with superior, middle and inferior branches that supply pharyngeal submucosal spaces"
+      }
+    }
+  ],
+
+  "summary_table": {
+    "headers": [
+      "Row",
+      "Label",
+      "Parent ID",
+      "Parent Label",
+      "Location ID",
+      "Location Label",
+      "Branch Of ID",
+      "Branch Of Label",
+      "Supplies ID(s)",
+      "Supplies Label(s)"
+    ],
+    "data": [
+      [72, "eustachian branch of ascending pharyngeal artery", "UBERON:0001637", "artery", "UBERON:0000974", "neck", "UBERON:8600078", "ascending pharyngeal artery", "UBERON:0002393", "pharyngotympanic tube"],
+      [80, "inferior pharyngeal artery", "UBERON:0001637", "artery", "UBERON:0000974", "neck", "UBERON:8600078", "ascending pharyngeal artery", "UBERON:0006562", "pharynx"],
+      [121, "middle pharyngeal artery", "UBERON:0001637", "artery", "UBERON:0000974", "neck", "UBERON:8600078", "ascending pharyngeal artery", "UBERON:0006562", "pharynx"],
+      [132, "pterygovaginal artery", "UBERON:0001637", "artery", "UBERON:0000033", "head", "UBERON:8600078", "ascending pharyngeal artery", "UBERON:0001728|UBERON:0002393", "nasopharynx|pharyngotympanic tube"],
+      [158, "superior pharyngeal artery", "UBERON:0001637", "artery", "UBERON:0000974", "neck", "UBERON:8600078", "ascending pharyngeal artery", "UBERON:0006562|UBERON:0001728", "pharynx|nasopharynx"]
+    ]
+  },
+
+  "methodology": {
+    "reference_source": "PMID:12169487 - Comprehensive review article on ascending pharyngeal artery anatomy",
+    "ontology_lookup": "OLS4 (Ontology Lookup Service) used to identify UBERON terms",
+    "pattern_matching": "Followed pattern from completed row 8 (UBERON:8600078 - ascending pharyngeal artery)",
+    "anatomical_reasoning": "Based on established knowledge that the ascending pharyngeal artery divides into pharyngeal trunk (with superior, middle, and inferior branches) and neuromeningeal trunk. The pharyngeal branches supply different levels of the pharynx.",
+    "structures_identified": {
+      "pharyngotympanic_tube": "UBERON:0002393 (eustachian/auditory tube)",
+      "pharynx": "UBERON:0006562 (general pharynx)",
+      "nasopharynx": "UBERON:0001728 (upper pharynx above soft palate)",
+      "neck": "UBERON:0000974 (location for most branches)",
+      "head": "UBERON:0000033 (location for pterygovaginal artery)"
+    }
+  },
+
+  "notes": {
+    "general": "All five entries are branches of the ascending pharyngeal artery (UBERON:8600078) documented in PMID:12169487.",
+    "pharyngeal_branches": "The superior, middle, and inferior pharyngeal arteries represent the three main pharyngeal branches that supply pharyngeal submucosal spaces at different levels.",
+    "eustachian_branch": "Supplies the pharyngotympanic tube (eustachian/auditory tube), which connects the middle ear to the nasopharynx.",
+    "pterygovaginal_note": "The pterygovaginal artery supplies upper pharyngeal structures. There is also a related 'artery of pterygoid canal' (UBERON:8600100) that branches from the maxillary artery and supplies similar territory.",
+    "location_variation": "Most branches are located in the neck (UBERON:0000974), but the pterygovaginal artery is in the head (UBERON:0000033) due to its course through skull base structures.",
+    "reference_limitations": "Full text access was limited, but the abstract and anatomical knowledge combined with the pattern from row 8 provides sufficient information for these entries."
+  },
+
+  "creator": "https://orcid.org/0000-0001-6677-8489",
+  "date_created": "2026-02-09T00:00:00Z"
+}

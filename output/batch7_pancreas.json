@@ -1,0 +1,212 @@
+{
+  "batch_name": "batch7_pancreas",
+  "processing_date": "2026-02-09",
+  "source_template": "/Users/do12/Documents/GitHub/Uberon_vessel_template_agentic_edits/source/artery_and_arteriole_pattern.tsv",
+  "entries": [
+    {
+      "row_number": 81,
+      "label": "interlobular artery of pancreas",
+      "reference": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+      "populated_fields": {
+        "defined_class": "",
+        "label": "interlobular artery of pancreas",
+        "FMA_xref": "",
+        "parent": "UBERON:0001637",
+        "location": "UBERON:0000916",
+        "definition": "An artery that branches from the larger pancreatic arteries and courses between pancreatic lobules, giving rise to smaller intralobular branches and periductal branches that supply the pancreatic parenchyma and ducts.",
+        "xrefs": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+        "synonym": "",
+        "synonym_xrefs": "",
+        "connecting_branch_of": "UBERON:8920020|UBERON:8920021|UBERON:8920022",
+        "vessel_supplies_blood_to": "UBERON:0001264",
+        "creator": "https://orcid.org/0000-0001-6677-8489",
+        "date_created": "2026-02-09T00:00:00Z"
+      },
+      "justification": "Interlobular arteries are intermediate-sized vessels in the pancreatic microvasculature that run between (inter) pancreatic lobules. Based on the anatomical hierarchy, they branch from larger pancreatic arteries such as the dorsal pancreatic artery (UBERON:8920020), greater pancreatic artery (UBERON:8920021), or caudal pancreatic artery (UBERON:8920022). They are located in the abdomen (UBERON:0000916) and supply the pancreas (UBERON:0001264). These arteries give rise to smaller branches including lobular arteries and periductal branches."
+    },
+    {
+      "row_number": 103,
+      "label": "lobular artery of pancreas",
+      "reference": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+      "populated_fields": {
+        "defined_class": "",
+        "label": "lobular artery of pancreas",
+        "FMA_xref": "",
+        "parent": "UBERON:0001637",
+        "location": "UBERON:0000916",
+        "definition": "An artery that branches from the interlobular arteries of the pancreas and supplies individual pancreatic lobules, providing blood to the acinar tissue and islets of Langerhans within each lobule.",
+        "xrefs": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+        "synonym": "",
+        "synonym_xrefs": "",
+        "connecting_branch_of": "",
+        "vessel_supplies_blood_to": "UBERON:0007324",
+        "creator": "https://orcid.org/0000-0001-6677-8489",
+        "date_created": "2026-02-09T00:00:00Z"
+      },
+      "justification": "Lobular arteries are smaller vessels that branch from interlobular arteries and supply individual pancreatic lobules (UBERON:0007324). They represent the next level in the vascular hierarchy of the pancreas, distributing blood within the lobular structure to support the exocrine and endocrine functions of the pancreas. They are located in the abdomen (UBERON:0000916) and supply pancreatic lobules which contain both acinar tissue and islets of Langerhans."
+    },
+    {
+      "row_number": 125,
+      "label": "periductal branch of interlobular artery of pancreas",
+      "reference": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+      "populated_fields": {
+        "defined_class": "",
+        "label": "periductal branch of interlobular artery of pancreas",
+        "FMA_xref": "",
+        "parent": "UBERON:0001637",
+        "location": "UBERON:0000916",
+        "definition": "An artery that branches from the interlobular artery of the pancreas and supplies the pancreatic duct system, forming a periductal vascular plexus around the ductal epithelium.",
+        "xrefs": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+        "synonym": "",
+        "synonym_xrefs": "",
+        "connecting_branch_of": "",
+        "vessel_supplies_blood_to": "UBERON:0007329",
+        "creator": "https://orcid.org/0000-0001-6677-8489",
+        "date_created": "2026-02-09T00:00:00Z"
+      },
+      "justification": "Periductal branches arise from interlobular arteries and form a specialized vascular network around the pancreatic ducts (UBERON:0007329). This periductal plexus is essential for maintaining the health and function of the ductal epithelium, which transports exocrine secretions from the acinar tissue to the main pancreatic duct. These vessels are located in the abdomen (UBERON:0000916) and specifically supply the pancreatic duct system."
+    },
+    {
+      "row_number": 126,
+      "label": "periductal branch of lobular artery of pancreas",
+      "reference": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+      "populated_fields": {
+        "defined_class": "",
+        "label": "periductal branch of lobular artery of pancreas",
+        "FMA_xref": "",
+        "parent": "UBERON:0001637",
+        "location": "UBERON:0000916",
+        "definition": "An artery that branches from the lobular artery of the pancreas and supplies the smaller intralobular and intercalated ducts within the pancreatic lobule, contributing to the periductal capillary network.",
+        "xrefs": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+        "synonym": "",
+        "synonym_xrefs": "",
+        "connecting_branch_of": "",
+        "vessel_supplies_blood_to": "UBERON:0007329",
+        "creator": "https://orcid.org/0000-0001-6677-8489",
+        "date_created": "2026-02-09T00:00:00Z"
+      },
+      "justification": "These are smaller periductal branches that arise from lobular arteries rather than interlobular arteries. They supply the finer branches of the pancreatic duct system within individual lobules, including intercalated ducts and smaller intralobular ducts (UBERON:0007329). These vessels form part of the microvascular network that ensures adequate perfusion of the ductal epithelium at the lobular level. They are located in the abdomen (UBERON:0000916)."
+    },
+    {
+      "row_number": 162,
+      "label": "transverse pancreatic artery",
+      "reference": "https://radiopaedia.org/articles/transverse-pancreatic-artery",
+      "populated_fields": {
+        "defined_class": "",
+        "label": "transverse pancreatic artery",
+        "FMA_xref": "",
+        "parent": "UBERON:0001637",
+        "location": "UBERON:0000916",
+        "definition": "An artery that branches from the dorsal pancreatic artery and supplies the body and tail of the pancreas. It is also known as the inferior pancreatic artery.",
+        "xrefs": "doi:10.1016/j.pan.2022.02.002|https://www.elsevier.com/resources/anatomy/cardiovascular-system/arteries/inferior-pancreatic-artery/18545|https://radiopaedia.org/articles/transverse-pancreatic-artery",
+        "synonym": "inferior pancreatic artery",
+        "synonym_xrefs": "doi:10.1016/j.pan.2022.02.002",
+        "connecting_branch_of": "UBERON:8920020",
+        "vessel_supplies_blood_to": "UBERON:0001150|UBERON:0001151",
+        "creator": "https://orcid.org/0000-0001-6677-8489",
+        "date_created": "2026-02-09T00:00:00Z"
+      },
+      "justification": "The transverse pancreatic artery (also known as the inferior pancreatic artery) is a major branch of the dorsal pancreatic artery (UBERON:8920020). It runs transversely along the posterior aspect of the pancreas, supplying the body (UBERON:0001150) and tail (UBERON:0001151) of the pancreas. This entry was already documented in the template at row 37 (UBERON:8920023), so this represents verification of existing data. The artery is located in the abdomen (UBERON:0000916)."
+    }
+  ],
+  "ontology_terms_used": {
+    "UBERON:0000916": {
+      "label": "abdomen",
+      "definition": "The subdivision of the vertebrate body between the thorax and pelvis. The ventral part of the abdomen contains the abdominal cavity and visceral organs."
+    },
+    "UBERON:0001264": {
+      "label": "pancreas",
+      "definition": "An endoderm derived structure that produces precursors of digestive enzymes and blood glucose regulating hormones."
+    },
+    "UBERON:0001637": {
+      "label": "artery",
+      "definition": "Parent class for all arterial structures"
+    },
+    "UBERON:0007324": {
+      "label": "pancreatic lobule",
+      "definition": "A dense accumulation of exocrine glands in the pancreas often surrounding islets of Langerhans."
+    },
+    "UBERON:0007329": {
+      "label": "pancreatic duct",
+      "definition": "A duct that collects and carries secretions of the exocrine pancreas to the intestine."
+    },
+    "UBERON:0001194": {
+      "label": "splenic artery",
+      "definition": "An artery that supplies the spleen"
+    },
+    "UBERON:8920020": {
+      "label": "dorsal pancreatic artery",
+      "definition": "An artery that branches from the splenic artery and supplies the head, uncinate process, neck, body and tail of the pancreas."
+    },
+    "UBERON:8920021": {
+      "label": "greater pancreatic artery",
+      "definition": "An artery that branches from the splenic artery and supplies the left half of the body and tail of the pancreas."
+    },
+    "UBERON:8920022": {
+      "label": "caudal pancreatic artery",
+      "definition": "An artery that branches from the splenic artery and supplies the tail of the pancreas."
+    },
+    "UBERON:8920023": {
+      "label": "transverse pancreatic artery",
+      "definition": "An artery that branches from the dorsal pancreatic artery and supplies the body and tail of the pancreas. Also known as the inferior pancreatic artery."
+    },
+    "UBERON:0001150": {
+      "label": "body of pancreas",
+      "definition": "The body of the pancreas"
+    },
+    "UBERON:0001151": {
+      "label": "tail of pancreas",
+      "definition": "The tail of the pancreas"
+    }
+  },
+  "notes": [
+    "Row 162 (transverse pancreatic artery) was already present in the template as row 37 with UBERON:8920023. This entry represents verification and additional reference documentation.",
+    "The interlobular artery of pancreas (row 81) can branch from multiple larger pancreatic arteries, hence the connecting_branch_of field lists three possible parent arteries.",
+    "The periductal branches form specialized vascular plexuses around the pancreatic duct system at different hierarchical levels.",
+    "All entries follow the pattern established in rows 34-41 of the template for pancreatic arteries.",
+    "Parent artery is UBERON:0001637 (artery) for all entries, following the template pattern.",
+    "Location is UBERON:0000916 (abdomen) for all entries, consistent with pancreatic anatomy."
+  ],
+  "anatomical_hierarchy": {
+    "description": "Pancreatic arterial supply hierarchy from large to small vessels",
+    "hierarchy": [
+      {
+        "level": 1,
+        "vessels": ["Splenic artery (UBERON:0001194)"],
+        "description": "Main arterial supply to pancreas"
+      },
+      {
+        "level": 2,
+        "vessels": [
+          "Dorsal pancreatic artery (UBERON:8920020)",
+          "Greater pancreatic artery (UBERON:8920021)",
+          "Caudal pancreatic artery (UBERON:8920022)"
+        ],
+        "description": "Major branches supplying different regions of pancreas"
+      },
+      {
+        "level": 3,
+        "vessels": ["Transverse pancreatic artery (UBERON:8920023)"],
+        "description": "Branches from dorsal pancreatic artery"
+      },
+      {
+        "level": 4,
+        "vessels": ["Interlobular artery of pancreas"],
+        "description": "Vessels running between pancreatic lobules"
+      },
+      {
+        "level": 5,
+        "vessels": [
+          "Lobular artery of pancreas",
+          "Periductal branch of interlobular artery"
+        ],
+        "description": "Smaller vessels supplying lobules and ducts"
+      },
+      {
+        "level": 6,
+        "vessels": ["Periductal branch of lobular artery"],
+        "description": "Terminal branches supplying intralobular ducts"
+      }
+    ]
+  }
+}

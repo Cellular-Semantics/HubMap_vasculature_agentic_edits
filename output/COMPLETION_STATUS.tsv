@@ -1,0 +1,105 @@
+row_number	label	batch	status	definition_present	parent_present	location_present	xrefs
+61	cutaneous branch of medial proper palmar digital artery of fifth digit of hand	2	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries
+62	dorsal branch of lateral proper palmar digital artery of fifth digit of hand	2	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries
+63	dorsal branch of lateral proper palmar digital artery of fourth digit of hand	2	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries
+64	dorsal branch of lateral proper palmar digital artery of second digit of hand	2	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries
+65	dorsal branch of lateral proper palmar digital artery of third digit of hand	2	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries
+66	dorsal branch of medial proper palmar digital artery of fifth digit of hand	2	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries
+67	dorsal branch of medial proper palmar digital artery of fourth digit of hand	2	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries
+68	dorsal branch of medial proper palmar digital artery of second digit of hand	2	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries
+69	dorsal branch of medial proper palmar digital artery of third digit of hand	2	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries
+70	dorsal digital artery of first digit of hand	9	INCOMPLETE	NO	NO	NO	https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035
+71	dorsal meningeal artery	1	COMPLETE	YES	YES	YES	https://en.wikipedia.org/wiki/Meningohypophyseal_artery
+72	eustachian branch of ascending pharyngeal artery	8	INCOMPLETE	NO	NO	NO	PMID:12169487
+73	first common plantar digital artery	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+74	first palmar metacarpal artery	10	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Palmar_metacarpal_arteries
+75	fourth common plantar digital artery	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+76	high truncus anterior of right pulmonary artery	12	INCOMPLETE	NO	NO	NO	https://doi.org/10.21037/cdt.2018.01.04
+77	hypoglossal branch of ascending pharyngeal artery	1	COMPLETE	YES	YES	YES	https://en.wikipedia.org/wiki/Ascending_pharyngeal_artery
+78	inferior lobar artery of spleen	6	COMPLETE	YES	YES	YES	https://ijcrr.com/uploads/759_pdf.pdf
+79	inferior parietal artery	4	INCOMPLETE	NO	NO	NO	https://doi.org/10.3171/jns.1978.49.2.0204
+80	inferior pharyngeal artery	8	INCOMPLETE	NO	NO	NO	PMID:12169487
+81	interlobular artery of pancreas	7	INCOMPLETE	NO	NO	NO	https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html
+82	jugular branch of ascending pharyngeal artery	1	COMPLETE	YES	YES	YES	https://en.wikipedia.org/wiki/Ascending_pharyngeal_artery
+83	lateral calcaneal artery	12	INCOMPLETE	NO	NO	NO	https://pubmed.ncbi.nlm.nih.gov/9932327/
+84	lateral dorsal digital artery of fifth digit of hand	9	INCOMPLETE	NO	NO	NO	https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035
+85	lateral dorsal digital artery of fourth digit of hand	9	INCOMPLETE	NO	NO	NO	https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035
+86	lateral dorsal digital artery of second digit of hand	9	INCOMPLETE	NO	NO	NO	https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035
+87	lateral dorsal digital artery of third digit of hand	9	INCOMPLETE	NO	NO	NO	https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035
+88	lateral proper palmar digital artery of first digit of hand	10	INCOMPLETE	NO	NO	NO	https://www.ncbi.nlm.nih.gov/books/NBK546657/
+89	lateral proper palmar digital artery of second digit of hand	10	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/radialis-indicis-artery
+90	lateral proper plantar digital artery of fifth digit of foot	5	INCOMPLETE	NO	NO	NO	https://www.ncbi.nlm.nih.gov/books/NBK560912/
+91	lateral proper plantar digital artery of first digit of foot	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+92	lateral proper plantar digital artery of fourth digit of foot	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+93	lateral proper plantar digital artery of second digit of foot	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+94	lateral proper plantar digital artery of third digit of foot	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+95	lateral supramalleolar artery	12	INCOMPLETE	NO	NO	NO	https://doi.org/10.15562/bmj.v9i2.1812
+96	lateral sural artery	1	COMPLETE	YES	YES	YES	https://en.wikipedia.org/wiki/Sural_arteries
+97	left artery of caudate lobe	3	INCOMPLETE	NO	NO	NO	https://doi.org/10.1007/s12565-018-00475-x
+98	left lateral hepatic artery	3	COMPLETE	YES	YES	YES	https://doi.org/10.1007/s12565-018-00475-x
+99	left medial hepatic artery	3	COMPLETE	YES	YES	YES	https://doi.org/10.1007/s12565-018-00475-x
+100	lingual branch of inferior alveolar artery	12	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Inferior_alveolar_artery
+101	lingular artery of left lung	12	INCOMPLETE	NO	NO	NO	https://doi.org/10.21037/cdt.2018.01.04
+102	lobar artery of spleen	6	COMPLETE (DUPLICATE)	YES	YES	YES	https://ijcrr.com/uploads/759_pdf.pdf
+103	lobular artery of pancreas	7	INCOMPLETE	NO	NO	NO	https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html
+104	main cochlear artery	12	INCOMPLETE	NO	NO	NO	https://www.vestib.com/arterial-supply.html
+105	meandering mesenteric artery	13	INCOMPLETE	NO	NO	NO	https://www.kenhub.com/en/library/anatomy/left-colic-artery
+106	medial calcaneal artery	13	INCOMPLETE	NO	NO	NO	https://www.ncbi.nlm.nih.gov/books/NBK560912/
+107	medial dorsal digital artery of fifth digit of hand	9	INCOMPLETE	NO	NO	NO	https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035
+108	medial dorsal digital artery of fourth digit of hand	9	INCOMPLETE	NO	NO	NO	https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035
+109	medial dorsal digital artery of second digit of hand	9	INCOMPLETE	NO	NO	NO	https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035
+110	medial dorsal digital artery of third digit of hand	9	INCOMPLETE	NO	NO	NO	https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035
+111	medial lenticulostriate artery	4	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Anterior_cerebral_artery
+112	medial proper palmar digital artery of first digit of hand	10	INCOMPLETE	NO	NO	NO	https://www.ncbi.nlm.nih.gov/books/NBK546657/
+113	medial proper plantar digital artery of fifth digit of foot	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+114	medial proper plantar digital artery of first digit of foot	5	INCOMPLETE	NO	NO	NO	https://www.ncbi.nlm.nih.gov/books/NBK560912/
+115	medial proper plantar digital artery of fourth digit of foot	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+116	medial proper plantar digital artery of second digit of foot	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+117	medial proper plantar digital artery of third digit of foot	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+118	medial sural artery	1	COMPLETE	YES	YES	YES	https://en.wikipedia.org/wiki/Sural_arteries
+119	meningohypophyseal artery	12	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Meningohypophyseal_artery
+120	middle internal frontal artery	4	INCOMPLETE	NO	NO	NO	https://doi.org/10.3171/jns.1978.49.2.0204
+121	middle pharyngeal artery	8	INCOMPLETE	NO	NO	NO	PMID:12169487
+122	orbitofrontal branch of anterior cerebral artery	4	INCOMPLETE	NO	NO	NO	http://radiopaedia.org/articles/orbitofrontal-artery
+123	orbitofrontal branch of middle cerebral artery	4	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Middle_cerebral_artery
+124	paracentral artery	4	INCOMPLETE	NO	NO	NO	https://doi.org/10.3171/jns.1978.49.2.0204
+125	periductal branch of interlobular artery of pancreas	7	INCOMPLETE	NO	NO	NO	https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html
+126	periductal branch of lobular artery of pancreas	7	INCOMPLETE	NO	NO	NO	https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html
+127	posterior branch of obturator artery	13	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Obturator_artery
+128	posterior internal frontal artery	4	INCOMPLETE	NO	NO	NO	https://doi.org/10.3171/jns.1978.49.2.0204
+129	posterior lateral nasal branch of sphenopalatine artery	13	INCOMPLETE	NO	NO	NO	ISBN:9780323393225
+130	posterior segmental medullary artery	11	INCOMPLETE	NO	NO	NO	https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/
+131	posterior vestibular artery	12	INCOMPLETE	NO	NO	NO	https://www.vestib.com/arterial-supply.html
+132	pterygovaginal artery	8	INCOMPLETE	NO	NO	NO	PMID:12169487
+133	radial artery of uterus	13	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Arcuate_vessels_of_uterus
+134	recurrent muscular branch of submucosal artery of colon	14	INCOMPLETE	NO	NO	NO	https://doi.org/10.1111/j.1469-7580.2009.01199.x
+135	right anterior hepatic artery	3	COMPLETE	YES	YES	YES	https://doi.org/10.1007/s12565-018-00475-x
+136	right artery of caudate lobe	3	INCOMPLETE	NO	NO	NO	https://doi.org/10.1007/s12565-018-00475-x
+137	right posterior hepatic artery	3	COMPLETE	YES	YES	YES	https://doi.org/10.1007/s12565-018-00475-x
+138	second common plantar digital artery	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+139	second palmar metacarpal artery	10	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Palmar_metacarpal_arteries
+140	segmental branch of lobar artery of spleen	6	COMPLETE	YES	YES	YES	https://ijcrr.com/uploads/759_pdf.pdf
+141	segmental hepatic artery	3	COMPLETE	YES	YES	YES	https://doi.org/10.1007/s12565-018-00475-x
+142	segmental spinal artery	11	INCOMPLETE	NO	NO	NO	https://www.kenhub.com/en/library/anatomy/blood-supply-of-the-spinal-cord
+143	segmental spinal artery #2	11	INCOMPLETE	NO	NO	NO	https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/
+144	segmental spinal artery #3	11	INCOMPLETE	NO	NO	NO	https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/
+145	segmental spinal artery #4	11	INCOMPLETE	NO	NO	NO	https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/
+146	segmental spinal artery #5	11	INCOMPLETE	NO	NO	NO	https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/
+147	seminal vesicle arterial branches of prostatic artery	13	INCOMPLETE	NO	NO	NO	https://doi.org/10.1148/rg.2019180195
+148	septal perforating artery #2	13	INCOMPLETE	NO	NO	NO	https://doi.org/10.1067/mtc.2001.113604
+149	stylomastoid branch of occipital artery	14	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Occipital_artery
+150	submandibular gland branch of submental artery	14	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Submental_artery
+151	submucosal artery of colon	14	INCOMPLETE	NO	NO	NO	https://doi.org/10.1111/j.1469-7580.2009.01199.x
+152	subserous artery of colon	14	INCOMPLETE	NO	NO	NO	https://doi.org/10.1111/j.1469-7580.2009.01199.x
+153	subserous artery of colon #2	14	INCOMPLETE	NO	NO	NO	https://doi.org/10.1111/j.1469-7580.2009.01199.x
+154	sulcal artery	11	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/sulcal-artery?lang=us
+155	superficial branch of lateral plantar artery	14	INCOMPLETE	NO	NO	NO	https://www.ncbi.nlm.nih.gov/books/NBK560912/
+156	superior lobar artery of spleen	6	COMPLETE	YES	YES	YES	https://ijcrr.com/uploads/759_pdf.pdf
+157	superior parietal artery	4	INCOMPLETE	NO	NO	NO	https://doi.org/10.3171/jns.1978.49.2.0204
+158	superior pharyngeal artery	8	INCOMPLETE	NO	NO	NO	PMID:12169487
+159	tentorial artery	12	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Meningohypophyseal_artery
+160	third common plantar digital artery	5	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/arterial-supply-to-the-foot
+161	third palmar metacarpal artery	10	INCOMPLETE	NO	NO	NO	https://en.wikipedia.org/wiki/Palmar_metacarpal_arteries
+162	transverse pancreatic artery	7	INCOMPLETE	NO	NO	NO	https://radiopaedia.org/articles/transverse-pancreatic-artery
+163	zygomaticofacial artery	14	INCOMPLETE	NO	NO	NO	https://ranzcrpart1.fandom.com/wiki/Arterial_supply_to_brain:Ophthalmic_artery_and_branches
+164	zygomaticotemporal artery	14	INCOMPLETE	NO	NO	NO	https://ranzcrpart1.fandom.com/wiki/Arterial_supply_to_brain:Ophthalmic_artery_and_branches

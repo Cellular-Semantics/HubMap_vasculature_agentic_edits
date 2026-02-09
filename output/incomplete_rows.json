@@ -1,0 +1,1155 @@
+{
+  "total_incomplete": 104,
+  "wikipedia_refs": [
+    {
+      "row_number": 61,
+      "label": "cutaneous branch of medial proper palmar digital artery of fifth digit of hand",
+      "xrefs": "https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 62,
+      "label": "dorsal branch of lateral proper palmar digital artery of fifth digit of hand",
+      "xrefs": "https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 63,
+      "label": "dorsal branch of lateral proper palmar digital artery of fourth digit of hand",
+      "xrefs": "https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 64,
+      "label": "dorsal branch of lateral proper palmar digital artery of second digit of hand",
+      "xrefs": "https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 65,
+      "label": "dorsal branch of lateral proper palmar digital artery of third digit of hand",
+      "xrefs": "https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 66,
+      "label": "dorsal branch of medial proper palmar digital artery of fifth digit of hand",
+      "xrefs": "https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 67,
+      "label": "dorsal branch of medial proper palmar digital artery of fourth digit of hand",
+      "xrefs": "https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 68,
+      "label": "dorsal branch of medial proper palmar digital artery of second digit of hand",
+      "xrefs": "https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 69,
+      "label": "dorsal branch of medial proper palmar digital artery of third digit of hand",
+      "xrefs": "https://en.wikipedia.org/wiki/Proper_palmar_digital_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 71,
+      "label": "dorsal meningeal artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Meningohypophyseal_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 74,
+      "label": "first palmar metacarpal artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Palmar_metacarpal_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 77,
+      "label": "hypoglossal branch of ascending pharyngeal artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Ascending_pharyngeal_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 82,
+      "label": "jugular branch of ascending pharyngeal artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Ascending_pharyngeal_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 96,
+      "label": "lateral sural artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Sural_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 100,
+      "label": "lingual branch of inferior alveolar artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Inferior_alveolar_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 111,
+      "label": "medial lenticulostriate artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Anterior_cerebral_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 118,
+      "label": "medial sural artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Sural_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 119,
+      "label": "meningohypophyseal artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Meningohypophyseal_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 123,
+      "label": "orbitofrontal branch of middle cerebral artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Middle_cerebral_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 127,
+      "label": "posterior branch of obturator artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Obturator_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 133,
+      "label": "radial artery of uterus",
+      "xrefs": "https://en.wikipedia.org/wiki/Arcuate_vessels_of_uterus",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 139,
+      "label": "second palmar metacarpal artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Palmar_metacarpal_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 149,
+      "label": "stylomastoid branch of occipital artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Occipital_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 150,
+      "label": "submandibular gland branch of submental artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Submental_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 159,
+      "label": "tentorial artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Meningohypophyseal_artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 161,
+      "label": "third palmar metacarpal artery",
+      "xrefs": "https://en.wikipedia.org/wiki/Palmar_metacarpal_arteries",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    }
+  ],
+  "doi_refs": [
+    {
+      "row_number": 76,
+      "label": "high truncus anterior of right pulmonary artery",
+      "xrefs": "https://doi.org/10.21037/cdt.2018.01.04",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 79,
+      "label": "inferior parietal artery",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 95,
+      "label": "lateral supramalleolar artery",
+      "xrefs": "https://doi.org/10.15562/bmj.v9i2.1812",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 97,
+      "label": "left artery of caudate lobe",
+      "xrefs": "https://doi.org/10.1007/s12565-018-00475-x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 98,
+      "label": "left lateral hepatic artery",
+      "xrefs": "https://doi.org/10.1007/s12565-018-00475-x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 99,
+      "label": "left medial hepatic artery",
+      "xrefs": "https://doi.org/10.1007/s12565-018-00475-x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 101,
+      "label": "lingular artery of left lung",
+      "xrefs": "https://doi.org/10.21037/cdt.2018.01.04",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 120,
+      "label": "middle internal frontal artery",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 124,
+      "label": "paracentral artery",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 128,
+      "label": "posterior internal frontal artery",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 134,
+      "label": "recurrent muscular branch of submucosal artery of colon",
+      "xrefs": "https://doi.org/10.1111/j.1469-7580.2009.01199.x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 135,
+      "label": "right anterior hepatic artery",
+      "xrefs": "https://doi.org/10.1007/s12565-018-00475-x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 136,
+      "label": "right artery of caudate lobe",
+      "xrefs": "https://doi.org/10.1007/s12565-018-00475-x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 137,
+      "label": "right posterior hepatic artery",
+      "xrefs": "https://doi.org/10.1007/s12565-018-00475-x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 141,
+      "label": "segmental hepatic artery",
+      "xrefs": "https://doi.org/10.1007/s12565-018-00475-x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 147,
+      "label": "seminal vesicle arterial branches of prostatic artery",
+      "xrefs": "https://doi.org/10.1148/rg.2019180195",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 148,
+      "label": "septal perforating artery #2",
+      "xrefs": "https://doi.org/10.1067/mtc.2001.113604",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 151,
+      "label": "submucosal artery of colon",
+      "xrefs": "https://doi.org/10.1111/j.1469-7580.2009.01199.x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 152,
+      "label": "subserous artery of colon",
+      "xrefs": "https://doi.org/10.1111/j.1469-7580.2009.01199.x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 153,
+      "label": "subserous artery of colon #2",
+      "xrefs": "https://doi.org/10.1111/j.1469-7580.2009.01199.x",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 157,
+      "label": "superior parietal artery",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    }
+  ],
+  "pmid_refs": [
+    {
+      "row_number": 72,
+      "label": "eustachian branch of ascending pharyngeal artery",
+      "xrefs": "PMID:12169487",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 80,
+      "label": "inferior pharyngeal artery",
+      "xrefs": "PMID:12169487",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 83,
+      "label": "lateral calcaneal artery",
+      "xrefs": "https://pubmed.ncbi.nlm.nih.gov/9932327/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 121,
+      "label": "middle pharyngeal artery",
+      "xrefs": "PMID:12169487",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 132,
+      "label": "pterygovaginal artery",
+      "xrefs": "PMID:12169487",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 158,
+      "label": "superior pharyngeal artery",
+      "xrefs": "PMID:12169487",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    }
+  ],
+  "other_refs": [
+    {
+      "row_number": 70,
+      "label": "dorsal digital artery of first digit of hand",
+      "xrefs": "https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 73,
+      "label": "first common plantar digital artery",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 75,
+      "label": "fourth common plantar digital artery",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 78,
+      "label": "inferior lobar artery of spleen",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 81,
+      "label": "interlobular artery of pancreas",
+      "xrefs": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 84,
+      "label": "lateral dorsal digital artery of fifth digit of hand",
+      "xrefs": "https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 85,
+      "label": "lateral dorsal digital artery of fourth digit of hand",
+      "xrefs": "https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 86,
+      "label": "lateral dorsal digital artery of second digit of hand",
+      "xrefs": "https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 87,
+      "label": "lateral dorsal digital artery of third digit of hand",
+      "xrefs": "https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 88,
+      "label": "lateral proper palmar digital artery of first digit of hand",
+      "xrefs": "https://www.ncbi.nlm.nih.gov/books/NBK546657/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 89,
+      "label": "lateral proper palmar digital artery of second digit of hand",
+      "xrefs": "https://radiopaedia.org/articles/radialis-indicis-artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 90,
+      "label": "lateral proper plantar digital artery of fifth digit of foot",
+      "xrefs": "https://www.ncbi.nlm.nih.gov/books/NBK560912/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 91,
+      "label": "lateral proper plantar digital artery of first digit of foot",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 92,
+      "label": "lateral proper plantar digital artery of fourth digit of foot",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 93,
+      "label": "lateral proper plantar digital artery of second digit of foot",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 94,
+      "label": "lateral proper plantar digital artery of third digit of foot",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 102,
+      "label": "lobar artery of spleen",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 103,
+      "label": "lobular artery of pancreas",
+      "xrefs": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 104,
+      "label": "main cochlear artery",
+      "xrefs": "https://www.vestib.com/arterial-supply.html",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 105,
+      "label": "meandering mesenteric artery",
+      "xrefs": "https://www.kenhub.com/en/library/anatomy/left-colic-artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 106,
+      "label": "medial calcaneal artery",
+      "xrefs": "https://www.ncbi.nlm.nih.gov/books/NBK560912/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 107,
+      "label": "medial dorsal digital artery of fifth digit of hand",
+      "xrefs": "https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 108,
+      "label": "medial dorsal digital artery of fourth digit of hand",
+      "xrefs": "https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 109,
+      "label": "medial dorsal digital artery of second digit of hand",
+      "xrefs": "https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 110,
+      "label": "medial dorsal digital artery of third digit of hand",
+      "xrefs": "https://www.hand.theclinics.com/article/S0749-0712(19)30087-3/fulltext#secsectitle0035",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 112,
+      "label": "medial proper palmar digital artery of first digit of hand",
+      "xrefs": "https://www.ncbi.nlm.nih.gov/books/NBK546657/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 113,
+      "label": "medial proper plantar digital artery of fifth digit of foot",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 114,
+      "label": "medial proper plantar digital artery of first digit of foot",
+      "xrefs": "https://www.ncbi.nlm.nih.gov/books/NBK560912/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 115,
+      "label": "medial proper plantar digital artery of fourth digit of foot",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 116,
+      "label": "medial proper plantar digital artery of second digit of foot",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 117,
+      "label": "medial proper plantar digital artery of third digit of foot",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 122,
+      "label": "orbitofrontal branch of anterior cerebral artery",
+      "xrefs": "http://radiopaedia.org/articles/orbitofrontal-artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 125,
+      "label": "periductal branch of interlobular artery of pancreas",
+      "xrefs": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 126,
+      "label": "periductal branch of lobular artery of pancreas",
+      "xrefs": "https://www.flandershealth.us/chronic-pancreatitis/microcirculation-of-the-pancreas.html",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 129,
+      "label": "posterior lateral nasal branch of sphenopalatine artery",
+      "xrefs": "ISBN:9780323393225",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 130,
+      "label": "posterior segmental medullary artery",
+      "xrefs": "https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 131,
+      "label": "posterior vestibular artery",
+      "xrefs": "https://www.vestib.com/arterial-supply.html",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 138,
+      "label": "second common plantar digital artery",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 140,
+      "label": "segmental branch of lobar artery of spleen",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 142,
+      "label": "segmental spinal artery",
+      "xrefs": "https://www.kenhub.com/en/library/anatomy/blood-supply-of-the-spinal-cord",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 143,
+      "label": "segmental spinal artery #2",
+      "xrefs": "https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 144,
+      "label": "segmental spinal artery #3",
+      "xrefs": "https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 145,
+      "label": "segmental spinal artery #4",
+      "xrefs": "https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 146,
+      "label": "segmental spinal artery #5",
+      "xrefs": "https://anatomyzone.com/neuroanatomy/spinal-cord/blood-supply-to-the-spinal-cord/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 154,
+      "label": "sulcal artery",
+      "xrefs": "https://radiopaedia.org/articles/sulcal-artery?lang=us",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 155,
+      "label": "superficial branch of lateral plantar artery",
+      "xrefs": "https://www.ncbi.nlm.nih.gov/books/NBK560912/",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 156,
+      "label": "superior lobar artery of spleen",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 160,
+      "label": "third common plantar digital artery",
+      "xrefs": "https://radiopaedia.org/articles/arterial-supply-to-the-foot",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 162,
+      "label": "transverse pancreatic artery",
+      "xrefs": "https://radiopaedia.org/articles/transverse-pancreatic-artery",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 163,
+      "label": "zygomaticofacial artery",
+      "xrefs": "https://ranzcrpart1.fandom.com/wiki/Arterial_supply_to_brain:Ophthalmic_artery_and_branches",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    },
+    {
+      "row_number": 164,
+      "label": "zygomaticotemporal artery",
+      "xrefs": "https://ranzcrpart1.fandom.com/wiki/Arterial_supply_to_brain:Ophthalmic_artery_and_branches",
+      "missing_fields": [
+        "parent",
+        "location",
+        "definition",
+        "connecting_branch_of"
+      ]
+    }
+  ]
+}

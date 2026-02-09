@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "batch": "batch4_cerebral",
+    "description": "Cerebral artery branches processed from DOI 10.3171/jns.1978.49.2.0204 and Wikipedia references",
+    "date_processed": "2026-02-09T16:58:00Z",
+    "processor": "Claude Sonnet 4.5"
+  },
+  "entries": [
+    {
+      "row": 79,
+      "label": "inferior parietal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000955",
+      "location_label": "brain",
+      "definition": "An artery that branches from the middle cerebral artery and supplies the inferior parietal cortex.",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "connecting_branch_of": "UBERON:0001627",
+      "connecting_branch_of_label": "middle cerebral artery",
+      "vessel_supplies_blood_to": "UBERON:0006088",
+      "vessel_supplies_blood_to_label": "inferior parietal cortex",
+      "creator": "https://orcid.org/0000-0001-6677-8489",
+      "date_created": "2026-02-09T16:58:00Z"
+    },
+    {
+      "row": 111,
+      "label": "medial lenticulostriate artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000955",
+      "location_label": "brain",
+      "definition": "An artery that branches from the anterior cerebral artery and supplies the striatum.",
+      "xrefs": "https://en.wikipedia.org/wiki/Anterior_cerebral_artery",
+      "connecting_branch_of": "UBERON:0001624",
+      "connecting_branch_of_label": "anterior cerebral artery",
+      "vessel_supplies_blood_to": "UBERON:0002435",
+      "vessel_supplies_blood_to_label": "striatum",
+      "creator": "https://orcid.org/0000-0001-6677-8489",
+      "date_created": "2026-02-09T16:58:00Z"
+    },
+    {
+      "row": 120,
+      "label": "middle internal frontal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000955",
+      "location_label": "brain",
+      "definition": "An artery that branches from the anterior cerebral artery and supplies the middle portion of the frontal lobe on the medial surface.",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "connecting_branch_of": "UBERON:0001624",
+      "connecting_branch_of_label": "anterior cerebral artery",
+      "vessel_supplies_blood_to": "UBERON:0016525",
+      "vessel_supplies_blood_to_label": "frontal lobe",
+      "creator": "https://orcid.org/0000-0001-6677-8489",
+      "date_created": "2026-02-09T16:58:00Z"
+    },
+    {
+      "row": 122,
+      "label": "orbitofrontal branch of anterior cerebral artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000955",
+      "location_label": "brain",
+      "definition": "An artery that branches from the anterior cerebral artery and supplies the medial orbital frontal cortex.",
+      "xrefs": "http://radiopaedia.org/articles/orbitofrontal-artery",
+      "connecting_branch_of": "UBERON:0001624",
+      "connecting_branch_of_label": "anterior cerebral artery",
+      "vessel_supplies_blood_to": "UBERON:0022352",
+      "vessel_supplies_blood_to_label": "medial orbital frontal cortex",
+      "creator": "https://orcid.org/0000-0001-6677-8489",
+      "date_created": "2026-02-09T16:58:00Z"
+    },
+    {
+      "row": 123,
+      "label": "orbitofrontal branch of middle cerebral artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000955",
+      "location_label": "brain",
+      "definition": "An artery that branches from the middle cerebral artery and supplies the lateral orbital frontal cortex.",
+      "xrefs": "https://en.wikipedia.org/wiki/Middle_cerebral_artery",
+      "connecting_branch_of": "UBERON:0001627",
+      "connecting_branch_of_label": "middle cerebral artery",
+      "vessel_supplies_blood_to": "UBERON:0022352",
+      "vessel_supplies_blood_to_label": "medial orbital frontal cortex",
+      "creator": "https://orcid.org/0000-0001-6677-8489",
+      "date_created": "2026-02-09T16:58:00Z"
+    },
+    {
+      "row": 124,
+      "label": "paracentral artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000955",
+      "location_label": "brain",
+      "definition": "An artery that branches from the anterior cerebral artery and supplies the paracentral lobule.",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "connecting_branch_of": "UBERON:0001624",
+      "connecting_branch_of_label": "anterior cerebral artery",
+      "vessel_supplies_blood_to": "UBERON:0035933",
+      "vessel_supplies_blood_to_label": "paracentral lobule",
+      "creator": "https://orcid.org/0000-0001-6677-8489",
+      "date_created": "2026-02-09T16:58:00Z"
+    },
+    {
+      "row": 128,
+      "label": "posterior internal frontal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000955",
+      "location_label": "brain",
+      "definition": "An artery that branches from the anterior cerebral artery and supplies the posterior portion of the frontal lobe on the medial surface.",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "connecting_branch_of": "UBERON:0001624",
+      "connecting_branch_of_label": "anterior cerebral artery",
+      "vessel_supplies_blood_to": "UBERON:0016525",
+      "vessel_supplies_blood_to_label": "frontal lobe",
+      "creator": "https://orcid.org/0000-0001-6677-8489",
+      "date_created": "2026-02-09T16:58:00Z"
+    },
+    {
+      "row": 157,
+      "label": "superior parietal artery",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000955",
+      "location_label": "brain",
+      "definition": "An artery that branches from the middle cerebral artery and supplies the superior parietal cortex.",
+      "xrefs": "https://doi.org/10.3171/jns.1978.49.2.0204",
+      "connecting_branch_of": "UBERON:0001627",
+      "connecting_branch_of_label": "middle cerebral artery",
+      "vessel_supplies_blood_to": "UBERON:0006094",
+      "vessel_supplies_blood_to_label": "superior parietal cortex",
+      "creator": "https://orcid.org/0000-0001-6677-8489",
+      "date_created": "2026-02-09T16:58:00Z"
+    }
+  ],
+  "ontology_labels": {
+    "UBERON:0001637": "artery",
+    "UBERON:0000955": "brain",
+    "UBERON:0001624": "anterior cerebral artery",
+    "UBERON:0001627": "middle cerebral artery",
+    "UBERON:0001636": "posterior cerebral artery",
+    "UBERON:0016525": "frontal lobe",
+    "UBERON:0001872": "parietal lobe",
+    "UBERON:0006088": "inferior parietal cortex",
+    "UBERON:0006094": "superior parietal cortex",
+    "UBERON:0022352": "medial orbital frontal cortex",
+    "UBERON:0035933": "paracentral lobule",
+    "UBERON:0002435": "striatum"
+  },
+  "justifications": {
+    "79": {
+      "label": "inferior parietal artery",
+      "reference": "DOI:10.3171/jns.1978.49.2.0204 - Neurosurgery paper on cerebral artery anatomy",
+      "justification": "The inferior parietal artery is a cortical branch of the middle cerebral artery that supplies the inferior parietal lobule/cortex. From the referenced neurosurgery literature on cerebral artery anatomy, this artery is part of the cortical branching pattern of the MCA supplying the parietal lobe regions."
+    },
+    "111": {
+      "label": "medial lenticulostriate artery",
+      "reference": "Wikipedia - Anterior cerebral artery (https://en.wikipedia.org/wiki/Anterior_cerebral_artery)",
+      "justification": "The medial lenticulostriate arteries (also known as recurrent artery of Heubner) branch from the anterior cerebral artery and supply the striatum (caudate nucleus and putamen). These are small perforating arteries that arise from the A1 segment and/or proximal A2 segment of the ACA."
+    },
+    "120": {
+      "label": "middle internal frontal artery",
+      "reference": "DOI:10.3171/jns.1978.49.2.0204 - Neurosurgery paper on cerebral artery anatomy",
+      "justification": "The middle internal frontal artery is one of the cortical branches of the anterior cerebral artery that supplies the medial surface of the frontal lobe. This vessel is part of the systematic cortical branching pattern of the ACA described in the neurosurgical literature."
+    },
+    "122": {
+      "label": "orbitofrontal branch of anterior cerebral artery",
+      "reference": "Radiopaedia - Orbitofrontal artery (http://radiopaedia.org/articles/orbitofrontal-artery)",
+      "justification": "The orbitofrontal artery branches from the A2 segment of the anterior cerebral artery and supplies the medial orbital frontal cortex. This artery courses anteriorly to supply the orbital and medial frontal regions."
+    },
+    "123": {
+      "label": "orbitofrontal branch of middle cerebral artery",
+      "reference": "Wikipedia - Middle cerebral artery (https://en.wikipedia.org/wiki/Middle_cerebral_artery)",
+      "justification": "The orbitofrontal artery can arise from the middle cerebral artery (M2 segment) and supplies portions of the orbital frontal cortex. While the ACA typically supplies medial orbital regions, the MCA can contribute to lateral orbital regions."
+    },
+    "124": {
+      "label": "paracentral artery",
+      "reference": "DOI:10.3171/jns.1978.49.2.0204 - Neurosurgery paper on cerebral artery anatomy",
+      "justification": "The paracentral artery is a medial cortical branch of the anterior cerebral artery that supplies the paracentral lobule, which includes portions of the primary motor and sensory cortex on the medial surface of the hemisphere. This region straddles the central sulcus on the medial aspect."
+    },
+    "128": {
+      "label": "posterior internal frontal artery",
+      "reference": "DOI:10.3171/jns.1978.49.2.0204 - Neurosurgery paper on cerebral artery anatomy",
+      "justification": "The posterior internal frontal artery is a cortical branch of the anterior cerebral artery supplying the posterior medial frontal lobe. This is part of the systematic cortical distribution pattern of the ACA along the medial hemispheric surface."
+    },
+    "157": {
+      "label": "superior parietal artery",
+      "reference": "DOI:10.3171/jns.1978.49.2.0204 - Neurosurgery paper on cerebral artery anatomy",
+      "justification": "The superior parietal artery is a cortical branch of the middle cerebral artery that supplies the superior parietal lobule/cortex. This artery is part of the posterior cortical branches of the MCA that supply the parietal lobe regions."
+    }
+  }
+}

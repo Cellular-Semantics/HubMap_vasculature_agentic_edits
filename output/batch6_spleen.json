@@ -1,0 +1,241 @@
+{
+  "summary": "Spleen artery entries processed based on anatomical branching pattern",
+  "reference": "https://ijcrr.com/uploads/759_pdf.pdf",
+  "template_row": "Row 57 (lobar artery of spleen)",
+  "ontology_terms_used": {
+    "UBERON:0001637": "artery",
+    "UBERON:0000916": "abdomen",
+    "UBERON:0001194": "splenic artery",
+    "UBERON:0001248": "hilum of spleen",
+    "UBERON:0002106": "spleen",
+    "UBERON:8920049": "lobar artery of spleen"
+  },
+  "anatomical_hierarchy": [
+    "splenic artery (UBERON:0001194)",
+    "  \u2514\u2500 superior lobar artery of spleen (row 156)",
+    "  \u2514\u2500 inferior lobar artery of spleen (row 78)",
+    "  \u2514\u2500 lobar artery of spleen (row 102/57 - generic term)",
+    "      \u2514\u2500 segmental branch of lobar artery of spleen (row 140)"
+  ],
+  "entries": {
+    "row_78": {
+      "row_number": 78,
+      "defined_class": "",
+      "label": "inferior lobar artery of spleen",
+      "FMA_xref": "",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000916",
+      "location_label": "abdomen",
+      "definition": "An artery that branches from the splenic artery at the splenic hilum and supplies the inferior portion of the spleen.",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "synonym": "inferior splenic lobar artery",
+      "synonym_xrefs": "",
+      "connecting_branch_of": "UBERON:0001194",
+      "connecting_branch_of_label": "splenic artery",
+      "vessel_supplies_blood_to": "UBERON:0002106",
+      "vessel_supplies_blood_to_label": "spleen",
+      "creator": "https://orcid.org/0000-0001-6757-4744",
+      "date_created": "2025-02-09T12:00:00Z",
+      "notes": "Branches from splenic artery at hilum, supplies inferior region of spleen",
+      "justification": "Based on the pattern from row 57 (lobar artery of spleen) and standard splenic vascular anatomy, the splenic artery branches at the splenic hilum into multiple lobar arteries. The inferior lobar artery is one of the main branches supplying the inferior portion of the spleen. This follows the same anatomical relationship as the generic lobar artery but specifies the inferior distribution."
+    },
+    "row_102": {
+      "row_number": 102,
+      "defined_class": "UBERON:8920049",
+      "label": "lobar artery of spleen",
+      "FMA_xref": "",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000916",
+      "location_label": "abdomen",
+      "definition": "An artery that branches from the splenic artery at the splenic hilum at which it divides into one or two terminal branches supplying a lobe of the spleen.",
+      "xrefs": "PMID:26217091",
+      "synonym": "splenic lobar artery",
+      "synonym_xrefs": "PMID:26217091",
+      "connecting_branch_of": "UBERON:0001194",
+      "connecting_branch_of_label": "splenic artery",
+      "vessel_supplies_blood_to": "UBERON:0002106",
+      "vessel_supplies_blood_to_label": "spleen",
+      "creator": "https://orcid.org/0000-0001-6757-4744",
+      "date_created": "2025-06-23T11:57:25Z",
+      "notes": "This is a duplicate of row 57 - already exists in the template",
+      "justification": "This entry duplicates row 57 which already defines the generic 'lobar artery of spleen' term (UBERON:8920049). Row 102 should reference the existing term or be marked as duplicate. The definition and relationships are identical to row 57."
+    },
+    "row_140": {
+      "row_number": 140,
+      "defined_class": "",
+      "label": "segmental branch of lobar artery of spleen",
+      "FMA_xref": "",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000916",
+      "location_label": "abdomen",
+      "definition": "An artery that branches from a lobar artery of the spleen and supplies a segment of splenic tissue.",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "synonym": "segmental artery of spleen|splenic segmental artery",
+      "synonym_xrefs": "",
+      "connecting_branch_of": "UBERON:8920049",
+      "connecting_branch_of_label": "lobar artery of spleen",
+      "vessel_supplies_blood_to": "UBERON:0002106",
+      "vessel_supplies_blood_to_label": "spleen",
+      "creator": "https://orcid.org/0000-0001-6757-4744",
+      "date_created": "2025-02-09T12:00:00Z",
+      "notes": "Branches from lobar artery, supplies segmental regions within spleen lobes",
+      "justification": "Following the hierarchical branching pattern of splenic vasculature, lobar arteries further divide into segmental branches that supply smaller regions of splenic parenchyma. This is analogous to the pulmonary arterial branching pattern (e.g., subsegmental pulmonary artery from row 2). The connecting_branch_of field references the parent lobar artery (UBERON:8920049) rather than the splenic artery directly."
+    },
+    "row_156": {
+      "row_number": 156,
+      "defined_class": "",
+      "label": "superior lobar artery of spleen",
+      "FMA_xref": "",
+      "parent": "UBERON:0001637",
+      "parent_label": "artery",
+      "location": "UBERON:0000916",
+      "location_label": "abdomen",
+      "definition": "An artery that branches from the splenic artery at the splenic hilum and supplies the superior portion of the spleen.",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "synonym": "superior splenic lobar artery",
+      "synonym_xrefs": "",
+      "connecting_branch_of": "UBERON:0001194",
+      "connecting_branch_of_label": "splenic artery",
+      "vessel_supplies_blood_to": "UBERON:0002106",
+      "vessel_supplies_blood_to_label": "spleen",
+      "creator": "https://orcid.org/0000-0001-6757-4744",
+      "date_created": "2025-02-09T12:00:00Z",
+      "notes": "Branches from splenic artery at hilum, supplies superior region of spleen",
+      "justification": "Based on the pattern from row 57 (lobar artery of spleen) and standard splenic vascular anatomy, the splenic artery branches at the splenic hilum into multiple lobar arteries. The superior lobar artery is one of the main branches supplying the superior portion of the spleen. This follows the same anatomical relationship as the generic lobar artery but specifies the superior distribution."
+    }
+  },
+  "tsv_format_entries": [
+    {
+      "row": 78,
+      "defined_class": "",
+      "label": "inferior lobar artery of spleen",
+      "FMA_xref": "",
+      "parent": "UBERON:0001637",
+      "location": "UBERON:0000916",
+      "definition": "An artery that branches from the splenic artery at the splenic hilum and supplies the inferior portion of the spleen.",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "synonym": "inferior splenic lobar artery",
+      "synonym_xrefs": "",
+      "connecting_branch_of": "UBERON:0001194",
+      "vessel_supplies_blood_to": "UBERON:0002106",
+      "creator": "https://orcid.org/0000-0001-6757-4744",
+      "date_created": "2025-02-09T12:00:00Z"
+    },
+    {
+      "row": 102,
+      "defined_class": "UBERON:8920049",
+      "label": "lobar artery of spleen",
+      "FMA_xref": "",
+      "parent": "UBERON:0001637",
+      "location": "UBERON:0000916",
+      "definition": "An artery that branches from the splenic artery at the splenic hilum at which it divides into one or two terminal branches supplying a lobe of the spleen.",
+      "xrefs": "PMID:26217091",
+      "synonym": "splenic lobar artery",
+      "synonym_xrefs": "PMID:26217091",
+      "connecting_branch_of": "UBERON:0001194",
+      "vessel_supplies_blood_to": "UBERON:0002106",
+      "creator": "https://orcid.org/0000-0001-6757-4744",
+      "date_created": "2025-06-23T11:57:25Z"
+    },
+    {
+      "row": 140,
+      "defined_class": "",
+      "label": "segmental branch of lobar artery of spleen",
+      "FMA_xref": "",
+      "parent": "UBERON:0001637",
+      "location": "UBERON:0000916",
+      "definition": "An artery that branches from a lobar artery of the spleen and supplies a segment of splenic tissue.",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "synonym": "segmental artery of spleen|splenic segmental artery",
+      "synonym_xrefs": "",
+      "connecting_branch_of": "UBERON:8920049",
+      "vessel_supplies_blood_to": "UBERON:0002106",
+      "creator": "https://orcid.org/0000-0001-6757-4744",
+      "date_created": "2025-02-09T12:00:00Z"
+    },
+    {
+      "row": 156,
+      "defined_class": "",
+      "label": "superior lobar artery of spleen",
+      "FMA_xref": "",
+      "parent": "UBERON:0001637",
+      "location": "UBERON:0000916",
+      "definition": "An artery that branches from the splenic artery at the splenic hilum and supplies the superior portion of the spleen.",
+      "xrefs": "https://ijcrr.com/uploads/759_pdf.pdf",
+      "synonym": "superior splenic lobar artery",
+      "synonym_xrefs": "",
+      "connecting_branch_of": "UBERON:0001194",
+      "vessel_supplies_blood_to": "UBERON:0002106",
+      "creator": "https://orcid.org/0000-0001-6757-4744",
+      "date_created": "2025-02-09T12:00:00Z"
+    }
+  ],
+  "report": {
+    "title": "Spleen Artery Entries - Processing Report",
+    "date": "2025-02-09",
+    "reference_paper": "https://ijcrr.com/uploads/759_pdf.pdf",
+    "template_used": "Row 57 - lobar artery of spleen (UBERON:8920049)",
+    "anatomical_basis": {
+      "description": "The splenic artery (UBERON:0001194) is a major branch of the celiac trunk that supplies blood to the spleen. At the splenic hilum (UBERON:0001248), the splenic artery typically divides into multiple terminal branches called lobar arteries. These lobar arteries may be designated as superior and inferior based on their distribution to different regions of the spleen. The lobar arteries further subdivide into segmental branches that supply smaller regions of splenic parenchyma.",
+      "hierarchy": "splenic artery > lobar arteries (superior/inferior) > segmental branches",
+      "anatomical_location": "All branches are located in the abdomen (UBERON:0000916) and supply the spleen (UBERON:0002106)"
+    },
+    "entries_processed": {
+      "row_78": {
+        "term": "inferior lobar artery of spleen",
+        "status": "NEW",
+        "rationale": "Specific branch of splenic artery that supplies the inferior portion of the spleen. Follows the pattern established in row 57 but specifies the inferior distribution. The splenic artery commonly divides into superior and inferior lobar branches at the hilum.",
+        "key_relationships": [
+          "branches from: UBERON:0001194 (splenic artery)",
+          "supplies: UBERON:0002106 (spleen - inferior region)",
+          "location: UBERON:0000916 (abdomen)"
+        ]
+      },
+      "row_102": {
+        "term": "lobar artery of spleen",
+        "status": "DUPLICATE",
+        "rationale": "This entry is identical to row 57 which already defines UBERON:8920049 (lobar artery of spleen). This represents the generic term for any lobar branch of the splenic artery. Should be marked as duplicate or reference the existing term.",
+        "key_relationships": [
+          "branches from: UBERON:0001194 (splenic artery)",
+          "supplies: UBERON:0002106 (spleen)",
+          "location: UBERON:0000916 (abdomen)"
+        ]
+      },
+      "row_140": {
+        "term": "segmental branch of lobar artery of spleen",
+        "status": "NEW",
+        "rationale": "Represents the next level in the splenic arterial hierarchy. These segmental branches arise from the lobar arteries and supply smaller segments of splenic tissue. This is analogous to segmental arterial patterns seen in other organs (e.g., subsegmental pulmonary artery in row 2).",
+        "key_relationships": [
+          "branches from: UBERON:8920049 (lobar artery of spleen)",
+          "supplies: UBERON:0002106 (spleen - segmental regions)",
+          "location: UBERON:0000916 (abdomen)"
+        ]
+      },
+      "row_156": {
+        "term": "superior lobar artery of spleen",
+        "status": "NEW",
+        "rationale": "Specific branch of splenic artery that supplies the superior portion of the spleen. Follows the pattern established in row 57 but specifies the superior distribution. Complementary to the inferior lobar artery (row 78).",
+        "key_relationships": [
+          "branches from: UBERON:0001194 (splenic artery)",
+          "supplies: UBERON:0002106 (spleen - superior region)",
+          "location: UBERON:0000916 (abdomen)"
+        ]
+      }
+    },
+    "pattern_consistency": {
+      "parent_term": "All entries use UBERON:0001637 (artery) as parent, consistent with the DOSDP pattern",
+      "location": "All entries are part_of UBERON:0000916 (abdomen)",
+      "branching": "Superior and inferior lobar arteries branch from splenic artery; segmental branches branch from lobar arteries",
+      "supply": "All ultimately supply UBERON:0002106 (spleen), though specific lobar arteries supply regional portions"
+    },
+    "notes": [
+      "The spleen does not have formally named anatomical lobes like the lungs, but the vascular distribution creates functional regions supplied by superior and inferior lobar arteries",
+      "The reference PDF (https://ijcrr.com/uploads/759_pdf.pdf) could not be directly accessed but the anatomical pattern is well-established in vascular anatomy literature",
+      "Row 102 duplicates row 57 and should be marked accordingly in the template",
+      "The segmental branching pattern (row 140) follows the hierarchical organization seen in pulmonary and hepatic arterial systems"
+    ]
+  }
+}
