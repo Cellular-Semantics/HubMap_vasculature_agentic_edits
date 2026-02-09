@@ -1,6 +1,6 @@
 # Justification Report for DOSDP Template Updates
 
-Generated: 2026-02-09 17:05:44
+Generated: 2026-02-09 21:56:50
 
 Total entries updated: 21
 
@@ -13,7 +13,7 @@ Total entries updated: 21
 ### Populated Fields:
 
 - **Definition:** An artery that is a branch of the meningohypophyseal artery, which itself arises from the cavernous segment of the internal carotid artery, and supplies the dura mater of the meninges.
-- **Parent:** UBERON:0001532
+- **Parent:** UBERON:0001637
 - **Location:** UBERON:0003712
 - **Connecting branch of:** UBERON:0001532
 - **Supplies:** UBERON:0002363
@@ -31,7 +31,7 @@ Wikipedia states that the meningohypophyseal artery is 'an inconstant branch of 
 ### Populated Fields:
 
 - **Definition:** An artery that is a branch of the neuromeningeal trunk of the ascending pharyngeal artery, which enters the hypoglossal canal to supply regional meningeal and neural structures.
-- **Parent:** UBERON:8600078
+- **Parent:** UBERON:0001637
 - **Location:** UBERON:0006682
 - **Connecting branch of:** UBERON:8600078
 - **Supplies:** UBERON:0002363
@@ -76,7 +76,7 @@ Interlobular arteries are intermediate-sized vessels in the pancreatic microvasc
 ### Populated Fields:
 
 - **Definition:** An artery that is a branch of the neuromeningeal trunk of the ascending pharyngeal artery, which enters the jugular foramen to supply regional meningeal and neural structures.
-- **Parent:** UBERON:8600078
+- **Parent:** UBERON:0001637
 - **Location:** UBERON:0005456
 - **Connecting branch of:** UBERON:8600078
 - **Supplies:** UBERON:0002363
@@ -94,7 +94,7 @@ Wikipedia states that the ascending pharyngeal artery 'most typically bifurcates
 ### Populated Fields:
 
 - **Definition:** An artery that is one of the lateral branches of the sural arteries arising from the popliteal artery, distributed to the gastrocnemius, soleus, and plantaris muscles in the calf of the leg.
-- **Parent:** UBERON:0002250
+- **Parent:** UBERON:0001637
 - **Location:** UBERON:8480048
 - **Connecting branch of:** UBERON:0002250
 - **Supplies:** UBERON:0001388|UBERON:0001389|UBERON:0011905
@@ -184,7 +184,7 @@ Lobular arteries are smaller vessels that branch from interlobular arteries and 
 ### Populated Fields:
 
 - **Definition:** An artery that is one of the medial branches of the sural arteries arising from the popliteal artery, distributed to the gastrocnemius, soleus, and plantaris muscles in the calf of the leg.
-- **Parent:** UBERON:0002250
+- **Parent:** UBERON:0001637
 - **Location:** UBERON:8480048
 - **Connecting branch of:** UBERON:0002250
 - **Supplies:** UBERON:0001388|UBERON:0001389|UBERON:0011905

@@ -13,7 +13,7 @@ You also have available:
  - **fetch-wiki-info skill**: For Wikipedia and Wikidata references
  - **playwright MCP**: For complex web pages where standard fetching fails
 
-This project contains a DOSDP template for generating UBERON terms for vessels and arteries and the dosdp YAML file specifying the pattern used to convert terms from the template into OWL.  Some entries have missing content.
+This project contains a DOSDP template for generating UBERON terms for vessels and arteries and the dosdp YAML file specifying the pattern used to convert terms from the template into OWL.  Some entries have missing content. Your job is to complete missing content where references support that content.
 
 Each entry with missing content includes one or more references. Use the appropriate tool:
  - Wikipedia URLs: Use the 'fetch-wiki-info' skill
@@ -22,7 +22,9 @@ Each entry with missing content includes one or more references. Use the appropr
 
 Use the refs to retrieve information to populate the missing content, based on patterns earlier in the table and the associated DOSDP pattern.
 
-For ontology terms, use the **ontology-term-lookup subagent** with the text description of the anatomical structure you need to find.
+For the parent class ONLY USE either artery (UBERON:0001637) or areriole (UBERON:0001980) as appropriate to the term name & references.
+
+For all other ontology terms, use the **ontology-term-lookup subagent** with the name of the anatomical structure you need to find.
 
 As well as editing the table, generate an separate reporting table with the additional label columns adjacent to each ontology ID column.  Also generate a report justifying the edits with supporting text from the references.
 

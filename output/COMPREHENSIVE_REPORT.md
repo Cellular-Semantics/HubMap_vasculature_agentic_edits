@@ -2,7 +2,22 @@
 
 **Project**: UBERON Vessel Template Agentic Edits
 **Generated**: 2026-02-09
+**Last Updated**: 2026-02-09 (parent classes corrected)
 **Status**: 21 of 104 incomplete entries populated (20% complete)
+
+---
+
+## ⚠️ Important Correction Applied
+
+**Parent Class Compliance**: All 14 completed entries have been corrected to comply with DOSDP requirements. Per the template specification:
+
+> **Parent class must ONLY use either:**
+> - `UBERON:0001637` (artery) for arteries
+> - `UBERON:0001980` (arteriole) for arterioles
+
+**What Changed**: Initial population incorrectly used specific vessel IDs (e.g., "popliteal artery", "internal carotid artery") in the parent field. These have been moved to the `connecting_branch_of` field where they belong, and parent is now consistently `UBERON:0001637` for all arterial entries.
+
+This distinction is critical for DOSDP pattern application and OWL class generation.
 
 ---
 
@@ -49,7 +64,7 @@ All 21 populated entries include:
 **Populated Fields**:
 - **Defined Class**: (awaiting UBERON ID assignment)
 - **FMA Cross-reference**: Not found in FMA
-- **Parent**: UBERON:0001532 (internal carotid artery)
+- **Parent**: UBERON:0001637 (artery)
 - **Location**: UBERON:0003712 (cavernous sinus)
 - **Definition**: An artery that is a branch of the meningohypophyseal artery, which itself arises from the cavernous segment of the internal carotid artery, and supplies the dura mater of the meninges.
 - **Connecting Branch Of**: UBERON:0001532 (internal carotid artery)
@@ -67,7 +82,7 @@ All 21 populated entries include:
 **Populated Fields**:
 - **Defined Class**: (awaiting UBERON ID assignment)
 - **FMA Cross-reference**: Parent artery FMA:49497
-- **Parent**: UBERON:8600078 (ascending pharyngeal artery)
+- **Parent**: UBERON:0001637 (artery)
 - **Location**: UBERON:0006682 (hypoglossal canal)
 - **Definition**: An artery that is a branch of the neuromeningeal trunk of the ascending pharyngeal artery, which enters the hypoglossal canal to supply regional meningeal and neural structures.
 - **Connecting Branch Of**: UBERON:8600078 (ascending pharyngeal artery)
@@ -85,7 +100,7 @@ All 21 populated entries include:
 **Populated Fields**:
 - **Defined Class**: (awaiting UBERON ID assignment)
 - **FMA Cross-reference**: Parent artery FMA:49497
-- **Parent**: UBERON:8600078 (ascending pharyngeal artery)
+- **Parent**: UBERON:0001637 (artery)
 - **Location**: UBERON:0005456 (jugular foramen)
 - **Definition**: An artery that is a branch of the neuromeningeal trunk of the ascending pharyngeal artery, which enters the jugular foramen to supply regional meningeal and neural structures.
 - **Connecting Branch Of**: UBERON:8600078 (ascending pharyngeal artery)
@@ -103,7 +118,7 @@ All 21 populated entries include:
 **Populated Fields**:
 - **Defined Class**: (awaiting UBERON ID assignment)
 - **FMA Cross-reference**: FMA:22570 (sural arteries - collective term)
-- **Parent**: UBERON:0002250 (popliteal artery)
+- **Parent**: UBERON:0001637 (artery)
 - **Location**: UBERON:8480048 (lower leg)
 - **Definition**: An artery that is one of the lateral branches of the sural arteries arising from the popliteal artery, distributed to the gastrocnemius, soleus, and plantaris muscles in the calf of the leg.
 - **Connecting Branch Of**: UBERON:0002250 (popliteal artery)
@@ -121,7 +136,7 @@ All 21 populated entries include:
 **Populated Fields**:
 - **Defined Class**: (awaiting UBERON ID assignment)
 - **FMA Cross-reference**: FMA:22570 (sural arteries - collective term)
-- **Parent**: UBERON:0002250 (popliteal artery)
+- **Parent**: UBERON:0001637 (artery)
 - **Location**: UBERON:8480048 (lower leg)
 - **Definition**: An artery that is one of the medial branches of the sural arteries arising from the popliteal artery, distributed to the gastrocnemius, soleus, and plantaris muscles in the calf of the leg.
 - **Connecting Branch Of**: UBERON:0002250 (popliteal artery)
@@ -144,10 +159,12 @@ These are small branches of the proper palmar digital arteries that supply the f
 - **Cutaneous branches**: Supply the skin of the fingers
 
 **Common Pattern**:
-- **Parent**: UBERON:0001637 (artery)
+- **Parent**: UBERON:0001637 (artery) ✓
 - **Location**: Specific digit/finger of hand
 - **Connecting Branch Of**: Proper palmar digital artery (specific)
 - **Supplies**: Digit skin, soft tissue, or dorsal finger structures
+
+**Note**: Per DOSDP requirements, parent class must be UBERON:0001637 (artery) or UBERON:0001980 (arteriole). The "connecting_branch_of" field specifies the specific parent vessel.
 
 **Anatomical Note**: From Wikipedia - "Proper palmar digital arteries travel along the sides of the phalanges (along the contiguous sides of the index, middle, ring, and little fingers), each artery lying just below (dorsal to) its corresponding digital nerve. Dorsal branches supplied by the arteries anastomose with the dorsal digital arteries, and supply the soft parts on the back of the second and third phalanges, including the matrix of the fingernail."
 
@@ -596,8 +613,13 @@ Includes:
 
 ## Appendix: Ontology Terms Used
 
-### Common Parent Terms
-- **UBERON:0001637** - artery (most common parent)
+### Parent Terms (DOSDP Compliant)
+- **UBERON:0001637** - artery (ONLY allowed parent for arteries)
+- **UBERON:0001980** - arteriole (ONLY allowed parent for arterioles)
+
+**Note**: The "parent" field in DOSDP templates must use only the high-level class. Specific parent vessels are captured in the "connecting_branch_of" field.
+
+### Common Connecting Branch Terms
 - **UBERON:0002250** - popliteal artery
 - **UBERON:0001532** - internal carotid artery
 - **UBERON:8600078** - ascending pharyngeal artery
