@@ -33,15 +33,17 @@ class VesselProcessor:
                 incomplete.append((idx, entry))
         return incomplete
 
-    def save_progress(self, progress_file='progress.json'):
+    def save_progress(self, progress_file='output/progress.json'):
         """Save progress to JSON file"""
+        output_dir = Path('output')
+        output_dir.mkdir(exist_ok=True)
         with open(progress_file, 'w') as f:
             json.dump({
                 'progress': self.progress,
                 'last_updated': datetime.now().isoformat()
             }, f, indent=2)
 
-    def load_progress(self, progress_file='progress.json'):
+    def load_progress(self, progress_file='output/progress.json'):
         """Load progress from JSON file"""
         try:
             with open(progress_file, 'r') as f:
@@ -50,8 +52,10 @@ class VesselProcessor:
         except FileNotFoundError:
             pass
 
-    def save_justifications(self, report_file='justification_report.md'):
+    def save_justifications(self, report_file='output/justification_report.md'):
         """Save justification report"""
+        output_dir = Path('output')
+        output_dir.mkdir(exist_ok=True)
         with open(report_file, 'w') as f:
             f.write("# Vessel Template Completion - Justification Report\n\n")
             f.write(f"Generated: {datetime.now().isoformat()}\n\n")
@@ -65,7 +69,9 @@ class VesselProcessor:
     def save_updated_tsv(self, output_path=None):
         """Save updated TSV file"""
         if output_path is None:
-            output_path = self.tsv_path.parent / f"{self.tsv_path.stem}_updated.tsv"
+            output_dir = Path('output')
+            output_dir.mkdir(exist_ok=True)
+            output_path = output_dir / f"{self.tsv_path.stem}_updated.tsv"
 
         fieldnames = list(self.entries[0].keys())
         with open(output_path, 'w', encoding='utf-8', newline='') as f:
@@ -77,7 +83,7 @@ class VesselProcessor:
 
 
 if __name__ == '__main__':
-    processor = VesselProcessor('artery_and_arteriole_pattern.tsv')
+    processor = VesselProcessor('source/artery_and_arteriole_pattern.tsv')
 
     incomplete = processor.get_incomplete_entries()
     print(f"Total entries: {len(processor.entries)}")
