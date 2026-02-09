@@ -146,11 +146,3 @@ cython_debug/
 .DS_Store
 Thumbs.db
 
-# Claude Code
-.claude/
-
-# MCP config
-.mcp.json
-
-# Generated progress files (output TSV and reports are tracked)
-output/progress.json
